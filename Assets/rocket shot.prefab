@@ -86,7 +86,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 759d9f5856801094aa90e748f7c294ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HurtPlayer
-  hurtAmount: 3
+  hurtAmount: 1
   hurtSound: {fileID: 0}
   deathObject: {fileID: 0}
 --- !u!50 &1707347707677705180
